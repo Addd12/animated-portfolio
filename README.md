@@ -8,3 +8,9 @@ YouTube tutorial [link](https://youtu.be/CHGHuF24Cjw)
 ## Libraries
 [Framer motion](https://www.framer.com/) - animations library
 
+## What I learned
+- React structure
+- How to style using sass
+- How to use Framer motion framework for animation
+- How to use Parallax
+
