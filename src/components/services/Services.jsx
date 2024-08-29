@@ -32,7 +32,7 @@ const Services = () => {
       initial="initial"
       // whileInView="animate"
       ref={ref}
-      animate={isInView && "animate"}
+      animate={"animate"}
     >
       <motion.div className="textContainer">
         <p>
@@ -66,8 +66,7 @@ const Services = () => {
             enim at est tincidunt consequat. Nulla facilisi. Phasellus a lacinia
             erat. Interdum et malesuada fames ac ante ipsum primis in faucibus.
             Sed ante erat, ornare ut laoreet pellentesque, ornare sit amet
-            libero. Fusce tortor urna, bibendum tincidunt tortor venenatis,
-            vulputate lacinia lacus.
+            libero.
           </p>
           <button>Go</button>
         </motion.div>
@@ -82,8 +81,7 @@ const Services = () => {
             enim at est tincidunt consequat. Nulla facilisi. Phasellus a lacinia
             erat. Interdum et malesuada fames ac ante ipsum primis in faucibus.
             Sed ante erat, ornare ut laoreet pellentesque, ornare sit amet
-            libero. Fusce tortor urna, bibendum tincidunt tortor venenatis,
-            vulputate lacinia lacus.
+            libero.
           </p>
           <button>Go</button>
         </motion.div>
@@ -98,8 +96,7 @@ const Services = () => {
             enim at est tincidunt consequat. Nulla facilisi. Phasellus a lacinia
             erat. Interdum et malesuada fames ac ante ipsum primis in faucibus.
             Sed ante erat, ornare ut laoreet pellentesque, ornare sit amet
-            libero. Fusce tortor urna, bibendum tincidunt tortor venenatis,
-            vulputate lacinia lacus.
+            libero.
           </p>
           <button>Go</button>
         </motion.div>
@@ -114,8 +111,7 @@ const Services = () => {
             enim at est tincidunt consequat. Nulla facilisi. Phasellus a lacinia
             erat. Interdum et malesuada fames ac ante ipsum primis in faucibus.
             Sed ante erat, ornare ut laoreet pellentesque, ornare sit amet
-            libero. Fusce tortor urna, bibendum tincidunt tortor venenatis,
-            vulputate lacinia lacus.
+            libero.
           </p>
           <button>Go</button>
         </motion.div>
